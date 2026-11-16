@@ -36,6 +36,16 @@ A living reading list of AI-safety papers
 
 ---
 
+
+## Links
+
+https://transformer-circuits.pub/2026/workspace/index.html
+https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers
+https://github.com/safety-research/jpp_lens
+https://transformer-circuits.pub/2026/october-update/index.html
+https://www.neuronpedia.org/qwen3.6-27b/jlens?shareId=cmuyz763o0001182xcprl8ar8
+
+
 ## 0. Start here: the J-space paper
 
 - [ ]  [A global workspace in language models](https://www.anthropic.com/research/global-workspace) — Anthropic, 6 Jul 2026 — Introduces **J-space**, a small internal workspace in Claude found with the **Jacobian lens (J-lens)**; reports causal experiments and safety readouts (evaluation awareness, fabrication, hidden goals).
