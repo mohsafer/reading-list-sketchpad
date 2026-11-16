@@ -23,6 +23,7 @@ A living reading list of AI-safety papers
 
 ## Table of contents
 
+   .[Links](#Links).
 0. [Start here: the J-space paper](#0-start-here-the-j-space-paper)
 1. [Jacobian & gradient foundations](#1-jacobian--gradient-foundations)
 2. [Reading internal states: lenses & probes](#2-reading-internal-states-lenses--probes)
