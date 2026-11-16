@@ -6,6 +6,9 @@ A living reading list of interesting papers
 
 ---
 
+[A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+
+
 ## How to use this list
 
 - M = must-read / foundational
