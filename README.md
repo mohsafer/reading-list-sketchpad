@@ -11,6 +11,23 @@ A living reading list of interesting papers
   
  [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 
+
+## Links
+
+https://transformer-circuits.pub/2026/workspace/index.html
+
+
+https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers
+
+
+https://github.com/safety-research/jpp_lens
+
+
+https://transformer-circuits.pub/2026/october-update/index.html
+
+
+https://www.neuronpedia.org/qwen3.6-27b/jlens?shareId=cmuyz763o0001182xcprl8ar8
+
 ## unsorted 
 
 [J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration](https://arxiv.org/abs/2611.01342)
@@ -47,13 +64,7 @@ A living reading list of interesting papers
 ---
 
 
-## Links
 
-https://transformer-circuits.pub/2026/workspace/index.html
-https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers
-https://github.com/safety-research/jpp_lens
-https://transformer-circuits.pub/2026/october-update/index.html
-https://www.neuronpedia.org/qwen3.6-27b/jlens?shareId=cmuyz763o0001182xcprl8ar8
 
 
 ## 0. Start here: the J-space paper
