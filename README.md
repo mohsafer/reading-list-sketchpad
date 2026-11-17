@@ -28,6 +28,8 @@ A living reading list of interesting papers
 [The TTY demystified](https://www.linusakesson.net/programming/tty/index.php)
 
 [The Lost Story of Alan Turing’s Secret “Delilah” Project](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture)
+
+[Building a 350M Transformer From Scratch](https://john463212.substack.com/p/building-a-350m-transformer-from)
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
