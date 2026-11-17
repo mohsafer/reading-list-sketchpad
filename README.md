@@ -6,8 +6,8 @@ A living reading list of interesting papers
 
 ---
 
-[A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
-[Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
+- [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+- [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 
 ## unsorted 
 
