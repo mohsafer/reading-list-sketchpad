@@ -19,7 +19,7 @@ A living reading list of interesting papers
 
 [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
 
-
+[music to romanticize studying and reading (dark academia)](https://www.youtube.com/watch?v=GY24B6iD6oM&list=RDGY24B6iD6oM&start_radio=1)
 
 ## Links
 
