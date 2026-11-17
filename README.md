@@ -26,6 +26,8 @@ A living reading list of interesting papers
 [Intro to PyTorch Easy to follow, visual introduction](https://0byte.io/articles/pytorch_introduction.html)
 
 [The TTY demystified](https://www.linusakesson.net/programming/tty/index.php)
+
+[The Lost Story of Alan Turing’s Secret “Delilah” Project](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture)
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
