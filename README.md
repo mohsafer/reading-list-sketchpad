@@ -2,7 +2,7 @@
 
 A living reading list of interesting papers
 
-> **Last updated:** YYYY-MM-DD · **Total papers:** 0 (update as you go)
+> **Last updated:** 2026-11-17 · **Total papers:** 47  
 
 ---
 
