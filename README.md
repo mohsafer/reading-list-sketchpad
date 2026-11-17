@@ -1,4 +1,4 @@
-# Reading List — Interesting Paper and Blog Post
+# Reading List — Interesting Papers and Blog Posts
 
 A living reading list of interesting papers
 
@@ -13,6 +13,10 @@ A living reading list of interesting papers
 
 
 [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html) 
+
+
+[Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+
 
 ## Links
 
