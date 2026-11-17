@@ -75,7 +75,7 @@ https://www.neuronpedia.org/qwen3.6-27b/jlens?shareId=cmuyz763o0001182xcprl8ar8
 
 
 
-
+- [ ] [A Mathematical Theory of the Jacobian Lens](https://arxiv.org/abs/2610.31955)
 
 - [ ]  [A global workspace in language models](https://www.anthropic.com/research/global-workspace) — Anthropic, 6 Jul 2026 — Introduces **J-space**, a small internal workspace in Claude found with the **Jacobian lens (J-lens)**; reports causal experiments and safety readouts (evaluation awareness, fabrication, hidden goals).
 - [ ]  [From Latent Space to Jacobian Space: Measuring, Evading, and Training Against Safety-Content Accessibility](https://arxiv.org/abs/2610.04316) — Mohammad Mosafer, Oct 2026 — Links latent-space safety directions (representation engineering) to J-space via a layer-wise transport-amplification profile and a paired base-vs-tuned protocol; finds DPO can install refusal while J-space recognition drops to chance, and that monitor-aware suffix attacks evade a prompt-side monitor at no behavioral cost, with only a learned monitor surviving adaptive re-attack. *(Noted from the abstract only.)*
