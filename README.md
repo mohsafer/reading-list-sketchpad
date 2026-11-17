@@ -8,12 +8,9 @@ A living reading list of interesting papers
 
  [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
-  
  [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 
-
 [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html) 
-
 
 [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 
