@@ -6,6 +6,9 @@ A living reading list of interesting papers
 
 ---
 
+[The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+
  [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
  
  [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
@@ -17,7 +20,6 @@ A living reading list of interesting papers
 [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
 
 
-[Andrej Karpathy](https://karpathy.ai/)
 
 ## Links
 
