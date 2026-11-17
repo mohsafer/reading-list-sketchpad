@@ -21,6 +21,7 @@ A living reading list of interesting papers
 
 [music to romanticize studying and reading (dark academia)](https://www.youtube.com/watch?v=GY24B6iD6oM&list=RDGY24B6iD6oM&start_radio=1)
 
+[Deep Work Music In A Snowy Mountain Office | Ambient Focus Music For Maximum Concentration And Flow](https://www.youtube.com/watch?v=za2ywo1fn4E&list=RDza2ywo1fn4E&start_radio=1)
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
