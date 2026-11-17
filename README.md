@@ -12,6 +12,8 @@ A living reading list of interesting papers
  [Feynman vs. Computer](https://entropicthoughts.com/feynman-vs-computer)
 
 
+[Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html) 
+
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
