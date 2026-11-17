@@ -14,6 +14,7 @@ A living reading list of interesting papers
 
 [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 
+[The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
 
 ## Links
 
