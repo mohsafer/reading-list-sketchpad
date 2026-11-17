@@ -41,12 +41,7 @@ https://www.neuronpedia.org/qwen3.6-27b/jlens?shareId=cmuyz763o0001182xcprl8ar8
 
 [J-Anchor: Defending Against Prefill Attacks via J-Space Selective Refusal Restoration](https://arxiv.org/abs/2611.01342)
 
-## How to use this list
 
-- M = must-read / foundational
-- `[ ]` = not read yet, `[x]` = read
-- Entry format: **title (link)** — first author, year — one-line takeaway in your own words
-- Longer notes go in `notes/<id>.md` (problem, method, results, limitations, relevance to my work)
 
 ### Entry template
 
