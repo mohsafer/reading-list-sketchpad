@@ -20,9 +20,6 @@ https://transformer-circuits.pub/2026/workspace/index.html
 https://www.lesswrong.com/posts/nv8oedrnLXKRzNEL9/r-lens-making-j-lens-more-faithful-on-early-layers
 
 
-https://github.com/safety-research/jpp_lens
-
-
 https://transformer-circuits.pub/2026/october-update/index.html
 
 
