@@ -16,6 +16,9 @@ A living reading list of interesting papers
 
 [The small web is beautiful](https://benhoyt.com/writings/the-small-web-is-beautiful/)
 
+
+[Andrej Karpathy](https://karpathy.ai/)
+
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
