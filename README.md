@@ -31,6 +31,8 @@ A living reading list of interesting papers
 
 [Building a 350M Transformer From Scratch](https://john463212.substack.com/p/building-a-350m-transformer-from)
 
+[Understanding entropy](https://8dcc.github.io/math/understanding-entropy.html)
+
 [John von Neumann Shot Lightning From His Arse](https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from)
 ## Links
 
