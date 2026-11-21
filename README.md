@@ -34,6 +34,8 @@ A living reading list of interesting papers
 [Understanding entropy](https://8dcc.github.io/math/understanding-entropy.html)
 
 [John von Neumann Shot Lightning From His Arse](https://www.theintrinsicperspective.com/p/john-von-neumann-shot-lightning-from)
+
+[We Need Smart People Who Give a Shit](https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/)
 ## Links
 
 https://transformer-circuits.pub/2026/workspace/index.html
